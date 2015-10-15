@@ -1,0 +1,32 @@
+{
+    "globalSettings": {
+        "brand": "usa",
+        "file_path": "http://mvpd-admin.nbcuni.com/",
+        "adobePassEndPoint": "https://sp.auth.adobe.com",
+        "adobePassErrorMappings": {
+            "DefaultError": {
+                "useAdobeDesc": 0,
+                "title": "Uh-oh. An unknown error has occurred.",
+                "body": "If the problem persists, please go to Settings -> Contact Us and send us a note."
+            }
+        }
+    },
+    "mvpdWhitelist": [
+        {
+            "mvpd": "DTV",
+            "mvpd_url": "http://directv.com",
+            "mvpd_display_name": "DIRECTV",
+            "tier": 1,
+            "advertisingKey": "3e3b995fe19c7c1ab54f8a302ae04b94",
+            "adobePassErrorMappings": [],
+            "activationpickerImage": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_color.png",
+            "activationpickerImage_2x": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_color2x.png",
+            "activationloggedInImage": "sites/mvpdadmin/files/logos/DTV_White/mvpd_DTV_White.png",
+            "activationloggedInImage_2x": "sites/mvpdadmin/files/logos/DTV_White2x/mvpd_DTV_White2x.png",
+            "apppickerImage": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_color.png",
+            "apppickerImage_2x": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_color2x.png",
+            "apploggedInImage": "sites/mvpdadmin/files/logos/DTV_White/mvpd_DTV_White.png",
+            "apploggedInImage_2x": "sites/mvpdadmin/files/logos/DTV_White2x/mvpd_DTV_White2x.png"
+        }
+    ]
+}
