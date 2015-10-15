@@ -1,0 +1,14 @@
+{
+    "globalSettings": {
+        "brand": "usa",
+        "file_path": "http://mvpd-admin.nbcuni.com/",
+        "adobePassEndPoint": "https://sp.auth.adobe.com",
+        "adobePassErrorMappings": {
+            "DefaultError": {
+                "useAdobeDesc": 0,
+                "title": "Uh-oh. An unknown error has occurred.",
+                "body": "If the problem persists, please go to Settings -> Contact Us and send us a note."
+            }
+        }
+    }
+}
