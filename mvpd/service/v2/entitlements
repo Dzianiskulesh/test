@@ -27,6 +27,54 @@
             "apppickerImage_2x": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_white.png",
             "apploggedInImage": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_white.png",
             "apploggedInImage_2x": "sites/mvpdadmin/files/logos/DTV/mvpd_DTV_white.png"
+        },
+        {
+            "mvpd": "weh010-camtel",
+            "mvpd_url": "www.cimtel.net",
+            "mvpd_display_name": "Cam-Tel Company",
+            "tier": 0,
+            "advertisingKey": "bb696d9b2f14fa0f673315d169d4e523",
+            "adobePassErrorMappings": [],
+            "activationpickerImage": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_color.png",
+            "activationpickerImage_2x": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_color2x.png",
+            "activationloggedInImage": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_white.png",
+            "activationloggedInImage_2x": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_white2x.png",
+            "apppickerImage": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_color.png",
+            "apppickerImage_2x": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_color2x.png",
+            "apploggedInImage": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_white333.png",
+            "apploggedInImage_2x": "sites/mvpdadmin/files/logos/weh010-camtel/mvpd_weh010-camtel_white2x.png"
+        },
+        {
+            "mvpd": "woo010",
+            "mvpd_url": "http://www.solarus.net",
+            "mvpd_display_name": "Solarus",
+            "tier": 0,
+            "advertisingKey": "bb696d9b2f14fa0f673315d169d4e523",
+            "adobePassErrorMappings": [],
+            "activationpickerImage": "sites/mvpdadmin/files/logos/woo010/mvpd_woo010_color_0.png",
+            "activationpickerImage_2x": "sites/mvpdadmin/files/logos/woo010/mvpd_woo010_color2x.png",
+            "activationloggedInImage": "sites/mvpdadmin/files/logos/woo010_white_0/mvpd_woo010_white_0.png",
+            "activationloggedInImage_2x": "sites/mvpdadmin/files/logos/woo010_white2x_0/mvpd_woo010_white2x_0.png",
+            "apppickerImage": "sites/mvpdadmin/files/logos/woo010/mvpd_woo010_color_0.png",
+            "apppickerImage_2x": "sites/mvpdadmin/files/logos/woo010/mvpd_woo010_color2x.png",
+            "apploggedInImage": "sites/mvpdadmin/files/logos/woo010_white_0/mvpd_woo010_white_0333.png",
+            "apploggedInImage_2x": "sites/mvpdadmin/files/logos/woo010_white2x_0/mvpd_woo010_white2x_0.png"
+        },
+        {
+            "mvpd": "mlg010",
+            "mvpd_url": "http://www.mlgc.com",
+            "mvpd_display_name": "MLGC",
+            "tier": 0,
+            "advertisingKey": "bb696d9b2f14fa0f673315d169d4e523",
+            "adobePassErrorMappings": [],
+            "activationpickerImage": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_color.png",
+            "activationpickerImage_2x": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_color2x.png",
+            "activationloggedInImage": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_white.png",
+            "activationloggedInImage_2x": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_white2x.png",
+            "apppickerImage": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_color.png",
+            "apppickerImage_2x": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_color2x.png",
+            "apploggedInImage": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_white.png",
+            "apploggedInImage_2x": "sites/mvpdadmin/files/logos/mlg010/mvpd_mlg010_white2x.png"
         }
     ]
 }
